@@ -1,2 +1,2 @@
 This is my first git repository.
-Author - Prachi
+Author - Prachi (Omsoftware)
